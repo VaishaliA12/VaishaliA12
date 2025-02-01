@@ -1,16 +1,30 @@
-## Hi there 👋
+# 💫 About Me:
+- 👋 Hi, I'm Vaishali Agarwal.
+- 🔭 I’m currently working on MERN stack.
+- 👯 I’m looking to collaborate on Full Stack Projects.
+- 📫 How to reach me avaishali96@gmail.com
+# 🌐 Socials:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/vaishali-agarwal-144480252">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/Vaishali21/">
+    <img src="https://camo.githubusercontent.com/5fa7721f4465f6fb6e7d0e2f5a8b44bc052bb5070a02c1ebe355dfe34bbf2bc1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c656574436f64652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4c656574436f6465266c6f676f436f6c6f723d23643136633036" alt="Leetcode Badge"/>
+  </a>
+</div>
 
-<!--
-**VaishaliA12/VaishaliA12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻Tech Stack :
+<div align="center">
+	<code><img width="80" src="https://camo.githubusercontent.com/88e1b21c4e11afd4f06cfb2b510dbb3690dbd300fb1a6d4676fd553a70bafa82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" alt="C++" title="C++"/></code>
+	<code><img width="80" src="https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML" title="HTML"/></code>
+	<code><img width="80" src="https://camo.githubusercontent.com/930c71eac967cc5cec61c0aa08ba3719f9cb68e28cdffa63b28b0a31be1663b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS" title="CSS"/></code>
+	<code><img width="80" src="https://camo.githubusercontent.com/ff567fef2c797702ab850ef9d8151c02979f6372135e76776f3a47f96071c1ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="80" src="https://camo.githubusercontent.com/63988a2627145515b51a5b034dc3155b819688f4685003955078bad9c54f7595/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="80" src="https://camo.githubusercontent.com/aca2af8e0383bd92f54da20c400245d4b6275dbf3e38a8c2ce4fae6e2c73093a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444146423f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b" alt="React" title="React"/></code>
+	<code><img width="80" src="https://camo.githubusercontent.com/2509ae2052ae17ff1b86535644b8d2e19fbbefacabc0887cfe6ba6a951e4ce45/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333393933333f7374796c653d666c6174266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="Node.js" title="Node.js"/></code>
+	<code><img width="80" src="https://camo.githubusercontent.com/ce0a5b56cee366a51cf5ac30904819032642a70f300d1a32d39a9742c6e19336/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d2532333030303030662e7376673f7374796c653d706c6173746963266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL" title="MySQL"/></code>
+	<code><img width="80" src="https://camo.githubusercontent.com/ec9b2bbaccf6915a29050ce24c10cd9b481b0c41b0bf5194add3e69f49a9be3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="mongoDB" title="mongoDB"/></code>
+	<code><img width="80" src="https://camo.githubusercontent.com/cf06fedcca8eedc2ebcf41a87c79ae200b8e7f79b65a9c2dcd833d1990bd3290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" alt="postman" title="postman"/></code>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
