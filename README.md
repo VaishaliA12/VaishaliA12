@@ -1,4 +1,4 @@
-## 💫 About Me:
+# 💫 About Me:
 - 👋 Hi, I'm Vaishali Agarwal.
 - 🔭 I’m currently working on MERN stack.
 - 👯 I’m looking to collaborate on Full Stack Projects.
