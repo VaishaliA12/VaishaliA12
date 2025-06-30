@@ -5,7 +5,7 @@
 - 📫 How to reach me avaishali96@gmail.com
 # 🌐 Socials:
 <div id="badges">
-  <a href="https://www.linkedin.com/in/vaishali-agarwal-144480252">
+  <a href="https://www.linkedin.com/in/vaishali-agarwal-2k02">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/u/Vaishali21/">
